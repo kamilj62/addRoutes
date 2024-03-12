@@ -1,0 +1,20 @@
+[
+    {
+        "email": "JohnAppleseed@2u.com",
+        "feedbackType": "UI",
+        "feedback": "This site is cool",
+        "feedback_id": "c83c28af-9197-4f2f-b119-03236ecfc0b6"
+    },
+    {
+        "email": "Joe",
+        "feedbackType": "Complaint",
+        "feedback": "Cassius is a dufus",
+        "feedback_id": "a1cb2787-370e-43d6-944e-3d844ac8edd0"
+    },
+    {
+        "email": "joe",
+        "feedbackType": "Complaint",
+        "feedback": "cassius is a dufus",
+        "feedback_id": "b38676f9-7da1-4b72-bce0-fc4672848905"
+    }
+]
